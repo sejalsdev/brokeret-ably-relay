@@ -1,0 +1,12 @@
+{
+  "name": "brokeret-ably-relay",
+  "version": "1.0.0",
+  "main": "relay.js",
+  "scripts": {
+    "start": "node relay.js"
+  },
+  "dependencies": {
+    "ably": "^1.2.44",
+    "ws": "^8.18.0"
+  }
+}
